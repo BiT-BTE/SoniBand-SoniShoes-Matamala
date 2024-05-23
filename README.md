@@ -6,7 +6,7 @@ Repo for Marta's Experiment
 
 1. Download GitHub desktop <https://desktop.github.com> 
 1. Create an account in GitHub <https://github.com> 
-1. Clone the GitHub repository (<https://github.com/JoakuDeSotavento/SoniBand-SoniShoes>) (send a mail to the programmer to give you access) <img src="assets/Picture_1.png" width="800">
+1. Clone the GitHub repository (<https://github.com/BiT-BTE/SoniBand-SoniShoes-Matamala>) (send a mail to the programmer to give you access) <img src="assets/Picture_1.png" width="800">
 1. Download MAX/MSP
    1. Create an account in MAX/MSP <https://cycling74.com> 
    1. Install MAX/MSP <https://cycling74.com/downloads> 
