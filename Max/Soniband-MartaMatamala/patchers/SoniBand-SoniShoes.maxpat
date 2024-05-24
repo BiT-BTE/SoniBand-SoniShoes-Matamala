@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 66.0, 1139.0, 823.0 ],
+		"rect" : [ 34.0, 66.0, 1165.0, 823.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -287,6 +287,7 @@
 							}
 , 							{
 								"box" : 								{
+									"domain" : [ 20.0, 16000.0 ],
 									"fontface" : 0,
 									"id" : "obj-4",
 									"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
@@ -919,6 +920,7 @@
 							}
 , 							{
 								"box" : 								{
+									"domain" : [ 20.0, 16000.0 ],
 									"fontface" : 0,
 									"id" : "obj-4",
 									"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
@@ -1606,6 +1608,7 @@
 							}
 , 							{
 								"box" : 								{
+									"domain" : [ 20.0, 16000.0 ],
 									"fontface" : 0,
 									"id" : "obj-4",
 									"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
@@ -3062,6 +3065,7 @@
 							}
 , 							{
 								"box" : 								{
+									"domain" : [ 20.0, 16000.0 ],
 									"fontface" : 0,
 									"id" : "obj-4",
 									"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
@@ -3718,6 +3722,7 @@
 							}
 , 							{
 								"box" : 								{
+									"domain" : [ 20.0, 16000.0 ],
 									"fontface" : 0,
 									"id" : "obj-4",
 									"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
@@ -4361,6 +4366,7 @@
 							}
 , 							{
 								"box" : 								{
+									"domain" : [ 20.0, 16000.0 ],
 									"fontface" : 0,
 									"id" : "obj-4",
 									"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
@@ -18563,6 +18569,7 @@
 													"domainscrollbar_visible" : 1,
 													"embed" : 0,
 													"externalfiles" : 1,
+													"foremost" : 1,
 													"freeze" : 0,
 													"id" : "obj-27",
 													"layout" : 0,
@@ -18587,14 +18594,17 @@
 													"rangeruler_grid" : 0,
 													"rangeruler_size" : 35,
 													"rangeruler_visible" : 0,
+													"refreshrate" : 120.0,
 													"region_bounds" : [ 0.0, 0.0 ],
 													"region_color" : [ 0.8, 0.7, 0.7, 1.0 ],
 													"region_visible" : 1,
 													"resamplefiles" : 0,
 													"snaprate" : 1000.0,
-													"split_color" : [ 1.0, 0.0, 0.0, 1.0 ],
-													"split_size" : 2,
-													"split_visible" : 1,
+													"splitbars_color" : [ 1.0, 0.0, 0.0, 1.0 ],
+													"splitbars_size" : 2,
+													"splitbars_visible" : 1,
+													"tabs_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"tabs_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 													"tabs_position" : 0,
 													"tabs_size" : 20,
 													"tabs_visible" : 1,
@@ -18602,6 +18612,7 @@
 													"toolbar_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"toolbar_position" : 1,
 													"toolbar_size" : 30,
+													"toolbar_transposition" : 0,
 													"toolbar_visible" : 1,
 													"useplaceholders" : 1,
 													"verbose" : 1,
@@ -29449,6 +29460,7 @@
 							}
 , 							{
 								"box" : 								{
+									"domain" : [ 20.0, 16000.0 ],
 									"fontface" : 0,
 									"id" : "obj-4",
 									"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
@@ -32004,7 +32016,7 @@
 					"presentation" : 1,
 					"presentation_linecount" : 4,
 					"presentation_rect" : [ -102.962646484375, 221.3565673828125, 315.0, 62.0 ],
-					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/Prueba Marta/asc_prolonged__01-D2024_27_02-T17_43_50.mubu\""
+					"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Recordings/_01-D2024_23_05-T14_52_34.mubu\""
 				}
 
 			}
@@ -33389,7 +33401,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 609.0, 293.0, 1444.0, 785.0 ],
+						"rect" : [ 34.0, 108.0, 1444.0, 785.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -34163,12 +34175,12 @@
 									"cursor_nearest" : 0,
 									"cursor_nearestcolor" : [ 1.0, 0.0, 0.0, 1.0 ],
 									"cursor_noringoffset" : 0,
-									"cursor_position" : 5245.0,
+									"cursor_position" : 2285.0,
 									"cursor_shape" : "bar",
 									"cursor_size" : 3,
 									"cursor_sizeunit" : 0,
 									"cursor_visible" : 1,
-									"domain_bounds" : [ 0.0, 6035.0 ],
+									"domain_bounds" : [ 0.0, 18500.0 ],
 									"domainruler_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"domainruler_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"domainruler_grid" : 0,
@@ -34181,6 +34193,7 @@
 									"domainscrollbar_visible" : 1,
 									"embed" : 0,
 									"externalfiles" : 1,
+									"foremost" : 1,
 									"freeze" : 0,
 									"id" : "obj-30",
 									"layout" : 0,
@@ -34205,14 +34218,17 @@
 									"rangeruler_grid" : 0,
 									"rangeruler_size" : 35,
 									"rangeruler_visible" : 0,
+									"refreshrate" : 120.0,
 									"region_bounds" : [ 0.0, 0.0 ],
 									"region_color" : [ 0.8, 0.7, 0.7, 1.0 ],
 									"region_visible" : 1,
 									"resamplefiles" : 0,
 									"snaprate" : 1000.0,
-									"split_color" : [ 1.0, 0.0, 0.0, 1.0 ],
-									"split_size" : 2,
-									"split_visible" : 1,
+									"splitbars_color" : [ 1.0, 0.0, 0.0, 1.0 ],
+									"splitbars_size" : 2,
+									"splitbars_visible" : 1,
+									"tabs_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"tabs_fgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 									"tabs_position" : 0,
 									"tabs_size" : 20,
 									"tabs_visible" : 1,
@@ -34220,6 +34236,7 @@
 									"toolbar_bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"toolbar_position" : 1,
 									"toolbar_size" : 30,
+									"toolbar_transposition" : 0,
 									"toolbar_visible" : 1,
 									"useplaceholders" : 1,
 									"verbose" : 1,
@@ -35856,12 +35873,13 @@
 													"fontname" : "Arial",
 													"fontsize" : 11.0,
 													"id" : "obj-2",
+													"linecount" : 3,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 302.0, 352.0, 471.5, 21.0 ],
-													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/Prueba Marta/\""
+													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Recordings/\""
 												}
 
 											}
@@ -37691,13 +37709,13 @@
 													"fontname" : "Arial",
 													"fontsize" : 11.0,
 													"id" : "obj-41",
-													"linecount" : 2,
+													"linecount" : 3,
 													"maxclass" : "message",
 													"numinlets" : 2,
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 374.0, 445.0, 552.0, 33.0 ],
-													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/Prueba Marta/asc_prolonged__01-D2024_27_02-T17_43_50\""
+													"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Recordings/_01-D2024_23_05-T14_52_34\""
 												}
 
 											}
@@ -38899,7 +38917,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 486.0, 660.3565673828125, 909.0, 22.0 ],
-									"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Desktop/Prueba Marta/asc_prolonged__01-D2024_27_02-T17_43_50\""
+									"text" : "\"Macintosh HD:/Users/JoakuDeSotavento1/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Recordings/_01-D2024_23_05-T14_52_34\""
 								}
 
 							}
@@ -43096,6 +43114,7 @@
 							}
 , 							{
 								"box" : 								{
+									"domain" : [ 20.0, 16000.0 ],
 									"fontface" : 0,
 									"id" : "obj-271",
 									"linmarkers" : [ 0.0, 11025.0, 16537.5 ],
@@ -48322,7 +48341,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "1d-concat.maxpat",
-				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -48333,14 +48352,14 @@
 			}
 , 			{
 				"name" : "intensity.maxpat",
-				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "kick.maxpat",
-				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -48391,21 +48410,21 @@
 			}
 , 			{
 				"name" : "riotbitalino.maxpat",
-				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "riots-bitalino-5new.maxpat",
-				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "yafr2.maxpat",
-				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-IML/Max/Soniband-MartaMatamala/patchers",
+				"bootpath" : "~/Documents/img-mov/git/SoniBand-SoniShoes-Matamala/Max/Soniband-MartaMatamala/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
