@@ -1,0 +1,51 @@
+{
+	"pattrstorage" : 	{
+		"name" : "2-soundbanks_preset",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"layer-1" : [ 0 ],
+					"layer-1-switch" : [ 1 ],
+					"layer-2" : [ 1 ],
+					"layer-2-switch" : [ 0 ],
+					"layer-2-switch[1]" : [ 1 ],
+					"layer-2-switch[2]" : [ 0 ],
+					"layer-2[1]" : [ 2 ],
+					"layer-2[2]" : [ 3 ],
+					"live.gain~[3]" : [ -0.270472440944904 ],
+					"live.gain~[4]" : [ -27.317157243756554 ],
+					"number" : [ 5.0 ],
+					"short" : [ 5 ],
+					"short-folder" : [ 27 ],
+					"short-switch" : [ 1 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"layer-1" : [ 0 ],
+					"layer-1-switch" : [ 1 ],
+					"layer-2" : [ 1 ],
+					"layer-2-switch" : [ 1 ],
+					"layer-2-switch[1]" : [ 1 ],
+					"layer-2-switch[2]" : [ 1 ],
+					"layer-2[1]" : [ 2 ],
+					"layer-2[2]" : [ 3 ],
+					"live.gain~[3]" : [ -49.949606299212562 ],
+					"live.gain~[4]" : [ -5.705721334189459 ],
+					"number" : [ 2.0 ],
+					"short" : [ 7 ],
+					"short-folder" : [ 27 ],
+					"short-switch" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,30 @@
+{
+	"pattrstorage" : 	{
+		"name" : "0-soundbanks_preset",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"layer-1" : [ 0 ],
+					"layer-1-switch" : [ 1 ],
+					"layer-2" : [ 1 ],
+					"layer-2-switch" : [ 0 ],
+					"layer-2-switch[1]" : [ 0 ],
+					"layer-2-switch[2]" : [ 0 ],
+					"layer-2[1]" : [ 2 ],
+					"layer-2[2]" : [ 3 ],
+					"live.gain~[3]" : [ -6.0 ],
+					"live.gain~[4]" : [ -12.0 ],
+					"number" : [ 5.0 ],
+					"short" : [ 0 ],
+					"short-folder" : [ 0 ],
+					"short-switch" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
